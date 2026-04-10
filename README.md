@@ -2,8 +2,6 @@
 
 # WEAKLY-SUPERVISED NEURAL NETWORKS FOR IMAGE SEGMENTATION
 
-
-
 ---
 
 ## Overview
@@ -47,6 +45,9 @@ Ensure that Python is installed on your system.
 |
 |-- instruction.pdf
 |   └── Coursework instructions (PDF)
+|
+|-- report.pdf
+|   └── Individual written report (methodology, experiments, results, and conclusions)
 ```
 
 ---
@@ -102,6 +103,24 @@ The project follows a structured experimental workflow:
 
 ---
 
+## Contributions
+
+* **Team Contribution:**
+
+  * Development and implementation of baseline and improved models
+  * Experimental setup and execution
+
+* **Individual Contribution:**
+
+  * Authored the complete written report (`report.pdf`), including:
+
+    * Methodology
+    * Experimental design
+    * Results and analysis
+    * Conclusions
+
+---
+
 ## Notes
 
 * The project is fully reproducible using `run_all_code.py`
@@ -111,7 +130,4 @@ The project follows a structured experimental workflow:
 
 ## Authors
 
-
 Applied Deep Learning Group 10 Team
-
-

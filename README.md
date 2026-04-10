@@ -124,7 +124,6 @@ The project follows a structured experimental workflow:
 ## Notes
 
 * The project is fully reproducible using `run_all_code.py`
-* Refer to `instruction.pdf` for detailed coursework guidelines
 
 ---
 
